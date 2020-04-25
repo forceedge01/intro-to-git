@@ -1,2 +1,1 @@
-hello world!
-I've got my bros with me here.
+We're about to write some code here.
